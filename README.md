@@ -1,3 +1,3 @@
 # libft
-This project aims to recode from scratch functions in stdLib in C language 
+This project aims to recode from scratch ususal functions in c
 [see subject](https://github.com/Ahaif/libft/blob/main/en.subject.pdf)
